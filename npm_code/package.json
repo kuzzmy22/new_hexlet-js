@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kuzzmy22/new_hexlet-js.git"
+  },
+  "author": "ВАШЕ_ИМЯ <ВАШ_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuzzmy22/new_hexlet-js/issues"
+  },
+  "homepage": "https://github.com/kuzzmy22/new_hexlet-js#readme",
+  "keywords": [
+    "javascript",
+    "hexlet",
+    "learning"
+  ]
+}
